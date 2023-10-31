@@ -14,7 +14,7 @@ using namespace std;
 int main() {
     setlocale(LC_ALL, "ru");
     int n;
-    cout << "Целое число N "; cin >> n;
+    cout << "Целое число N = "; cin >> n;
     double n1 = 1;
     double otv = 1;
     int i;
